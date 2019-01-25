@@ -1,1 +1,8 @@
---- {}
+rabbitmq-delayed-message-exchange-plugin/rabbitmq-delayed-message-exchange-plugin-3.6.x.zip:
+  size: 29853
+  object_id: 2f28b62d-45bc-402b-6b26-dc8fc1d95d53
+  sha: 70285d0d9a8ba74ab3e9af49651dcdaf55baa956
+rabbitmq-delayed-message-exchange-plugin/rabbitmq-delayed-message-exchange-plugin-3.7.x.zip:
+  size: 42483
+  object_id: 665797ad-74ee-42a1-7754-b1bbc0bf36df
+  sha: b878e3f5bcd80e90e73d01f672f9ead022141275
