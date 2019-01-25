@@ -1,0 +1,15 @@
+name: rabbitmq-delayed-message-exchange-addon
+version: "1"
+commit_hash: d21d393
+uncommitted_changes: false
+jobs:
+- name: install-delayed-message-exchange-plugin
+  version: 13a405f8040326d0148cdd92547dae44dabbee2b
+  fingerprint: 13a405f8040326d0148cdd92547dae44dabbee2b
+  sha1: 32e71d568a16f0d5a913b23e9223748464e53080
+packages:
+- name: rabbitmq-delayed-message-exchange-plugin
+  version: 7753dd777544531d4df5908a9a37f45851c7aa86
+  fingerprint: 7753dd777544531d4df5908a9a37f45851c7aa86
+  sha1: efdd8ce23980b562378f0049f6ecaa0d5fe98d71
+  dependencies: []
